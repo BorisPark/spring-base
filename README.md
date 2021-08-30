@@ -4,3 +4,5 @@
 코드는 '코드로 배우는 스프링 웹 프로젝트'의 코드를 기반으로 작성되어 있습니다.
 
 로컬에서의 db 연동 테스트를 위해서 root-context.xml의 username과 password를 수정해야 합니다.
+
+git clone 후 Maven update 해주세요.
